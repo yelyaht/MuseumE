@@ -80,7 +80,7 @@ button:hover {
 
 body {
   font-family: 'Merriweather', serif;
-  background-image: url('../images/vampirebackground.jpg'); /* test */
+  background-image: url('../images/elfbackground.jpg'); /* test */
   background-size: cover; /* test */
   background-attachment: fixed; /* test */
   background-position: center top; /* test */
@@ -146,7 +146,7 @@ h3{
   font-size: 1.3em;
 }
 
-.vampires-img{
+.elven-img{
   width: 100%;
   max-width: 400px;
   height: auto;
@@ -156,7 +156,7 @@ h3{
   border: 3px solid #0f52ba;
 }
 
-.vampires-side-column {
+.elven-side-column {
   display: flex;
   width: 300px;
   flex-direction: column;
